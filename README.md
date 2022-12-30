@@ -20,5 +20,5 @@
 #### After Code Adjustment 2018
 ![VBA Challenge 2018](https://github.com/SKuczynski17/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-#### We were able to cut down the time drastically. The 2017 code went from 0.53 seconds to run; down to 0.11 seconds. The 2018 code went from 0.54 seconds to run; down to 0.11 seconds. 
+#### We were able to cut down the time drastically. The 2017 code went from 0.53 seconds to run: down to 0.11 seconds. The 2018 code went from 0.54 seconds to run: down to 0.11 seconds. As we look to add further code down the line this will go a long way in making sure that our entire file doesn’t crash or take too long to execute. This cut down in time was the biggest advantage to come from this exercise. The only downside in this practice did take quite a while to execute. With more complex code I could see this taking a lot of time to master, but I believe I did learn much more about this code while working through it.
 
