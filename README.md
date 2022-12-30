@@ -20,5 +20,5 @@
 ### After Code Adjustment 2018
 ### VBA_Challenge_2018.png
 
-### We were able to cut down the time durastically. The 2017 code went from 0.53 seconds to run; down to 0.11 seconds. The 2018 code went from 0.54 seconds to run; down to 0.11 seconds. 
+### We were able to cut down the time drastically. The 2017 code went from 0.53 seconds to run; down to 0.11 seconds. The 2018 code went from 0.54 seconds to run; down to 0.11 seconds. 
 
